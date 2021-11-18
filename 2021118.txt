@@ -1,2 +1,3 @@
 zhi ke lian shun feng bu jie yi.
 git diff：查看你修改了什么（未add，commit）.
+修改内容后先提交支暂缓区（git add file.name）,在使用git diff 命令查看修改得内容。
