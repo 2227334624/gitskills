@@ -1,1 +1,2 @@
 zhi ke lian shun feng bu jie yi.
+git diff：查看你修改了什么（未add，commit）.
