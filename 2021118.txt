@@ -5,3 +5,4 @@ git diff命令在修改内容后没有提交至暂缓区时使用，提交至暂
 测试：git diff显示得对比内容（不提交至暂缓区）。
 测试git diff 命令对比那两个工作区得内容。
 增加内容先不git add,执行git diff。
+working tree工作区内容。
