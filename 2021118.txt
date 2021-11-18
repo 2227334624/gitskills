@@ -2,3 +2,5 @@ zhi ke lian shun feng bu jie yi.
 git diff：查看你修改了什么（未add，commit）.
 修改内容后先提交支暂缓区（git add file.name）,在使用git diff 命令查看修改得内容。
 git diff命令在修改内容后没有提交至暂缓区时使用，提交至暂缓区后无法显示修改得内容
+测试：git diff显示得对比内容（不提交至暂缓区）。
+测试1.
