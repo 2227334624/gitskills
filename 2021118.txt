@@ -6,3 +6,5 @@ git diff命令在修改内容后没有提交至暂缓区时使用，提交至暂
 测试git diff 命令对比那两个工作区得内容。
 增加内容先不git add,执行git diff。
 working tree工作区内容。
+暂存区（index /stage）公共内容。
+本地仓库（repository）工作区内容。
