@@ -12,3 +12,5 @@ working tree工作区内容。
 使用git gui工具得提交功能。
 使用git reset --hard HEAD^。
 git push后退回。
+
+测试。。
